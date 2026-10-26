@@ -2,6 +2,10 @@
 
 Real-time IoT Sensor detection, ON/OFF toggle simulation, live power consumption telemetry, and JWT-authenticated session security.
 
+## 🌐 Live Website (GitHub Pages)
+
+👉 **[https://aswinkumar-2006.github.io/sensorpulse-smart-campus/](https://aswinkumar-2006.github.io/sensorpulse-smart-campus/)**
+
 ---
 
 ## 🌟 Features
